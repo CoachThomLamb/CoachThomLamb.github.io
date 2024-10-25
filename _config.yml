@@ -1,7 +1,7 @@
 title: My Awesome Site
 description: A simple site to render Markdown files using Jekyll and GitHub Pages
 baseurl: ""
-url: "https://thomlamb.github.io"
+url: "https://CoachThomLamb.github.io"
 theme: minima
 
 # Build settings
